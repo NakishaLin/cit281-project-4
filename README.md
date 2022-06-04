@@ -9,5 +9,5 @@ The new thing we learned for this project is to get to know how to use Fastify a
 
 We also get to experience the postman. It is such a convenient way to test the route. Here is a really simple example of Postman processing an unfound sever.
 
-<img src="postman.png" width= 500 height= 200>
+<img src="postman.png" width= 400 height= 200>
 
